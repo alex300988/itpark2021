@@ -2,7 +2,7 @@ package lesson3;
 
 import com.sun.source.util.SourcePositions;
 
-public class HomeWork {
+public class HomeWorkPt1 {
 
     public static void main(String[] args) {
         double a, b, c;
